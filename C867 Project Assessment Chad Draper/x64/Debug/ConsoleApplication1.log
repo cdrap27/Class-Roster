@@ -1,0 +1,7 @@
+﻿  main.cpp
+  roster.cpp
+C:\Users\gabby\Desktop\C867 Project Assessment Chad Draper\roster.cpp(45,7): warning C4101: 'days': unreferenced local variable
+  student.cpp
+  Generating Code...
+  LINK : C:\Users\gabby\Desktop\C867 Project Assessment Chad Draper\x64\Debug\ConsoleApplication1.exe not found or not built by the last incremental link; performing full link
+  ConsoleApplication1.vcxproj -> C:\Users\gabby\Desktop\C867 Project Assessment Chad Draper\x64\Debug\ConsoleApplication1.exe
